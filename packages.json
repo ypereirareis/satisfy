@@ -1,8 +1,8 @@
 {
     "packages": {
-	"ypereirareis/satisfy": {
+	"playbloom/satisfy": {
 		"dev-master": {
-			"name": "ypereirareis/satisfy",
+			"name": "playbloom/satisfy",
 			"version": "dev-master",
 			"source": {
 				"type": "git",
