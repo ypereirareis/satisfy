@@ -1,7 +1,14 @@
 {
     "packages": {
-        "playbloom/satisfy": {
-            "dev-patch-lightopenid": { @composer.json }
-        }
+	"playbloom/satisfy": {
+		"dev-master": {
+			"name": "playbloom/satisfy",
+			"version": "dev-master",
+			"source": {
+				"type": "git",
+				"url": "git@github.com:ypereirareis/satisfy.git"
+			}
+		}
+	}
     }
 }
