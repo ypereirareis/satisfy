@@ -5,7 +5,7 @@
 			"name": "playbloom/satisfy",
 			"version": "dev-master",
 			"source": {
-				"type": "git",
+				"type": "vcs",
 				"url": "git@github.com:ypereirareis/satisfy.git",
 				"reference": "a5ee2b772c9f0b0ec33cfcf63ef1b0e5fc1cae48"
 			}
