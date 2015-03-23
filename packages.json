@@ -1,8 +1,8 @@
 {
     "packages": {
-	"playbloom/satisfy": {
+	"ypereirareis/satisfy": {
 		"dev-master": {
-			"name": "playbloom/satisfy",
+			"name": "ypereirareis/satisfy",
 			"version": "dev-master",
 			"source": {
 				"type": "vcs",
