@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "playbloom/satisfy": {
+            "dev-patch-lightopenid": { @composer.json }
+        }
+    }
+}
